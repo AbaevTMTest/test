@@ -1,1 +1,3 @@
 *.txt
+#temporary dir
+temp/
